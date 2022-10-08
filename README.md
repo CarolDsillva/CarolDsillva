@@ -1,6 +1,6 @@
+![logo](https://github.com/Carol-Dsillva/Carol-Dsillva/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm Carol D'silva</h1>
 <h3 align="center">I am an engineering student from India with a profound interest in design.</h3>
-<img scr="https://github.com/Carol-Dsillva/Carol-Dsillva/blob/main/Banner.gif">
 
 <p align="left"> <a href="https://twitter.com/caroldsillva" target="blank"><img src="https://img.shields.io/twitter/follow/caroldsillva?logo=twitter&style=for-the-badge" alt="caroldsillva" /></a> </p>
 
