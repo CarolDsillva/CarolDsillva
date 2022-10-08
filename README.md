@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carol D'silva</h1>
 <h3 align="center">I am an engineering student from India with a profound interest in design.</h3>
-<iframe src="https://giphy.com/embed/4R9iPofhP6lQzmTlhA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/happy-birthday-youre-awesome-you-are-on-your-4R9iPofhP6lQzmTlhA">via GIPHY</a></p>
+<img src="https://giphy.com/embed/4R9iPofhP6lQzmTlhA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/happy-birthday-youre-awesome-you-are-on-your-4R9iPofhP6lQzmTlhA"></a></p>
 <p align="left"> <a href="https://twitter.com/caroldsillva" target="blank"><img src="https://img.shields.io/twitter/follow/caroldsillva?logo=twitter&style=for-the-badge" alt="caroldsillva" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, Android Studio**
