@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Android Studio**
 
-- 👨‍💻 All of my projects are available at [https://carol-dsillva.github.io/Portfolio/](https://carol-dsillva.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://carol-dsillva.github.io/Portfolio/](https://caroldsilvaportfolio.web.app/)
 
 - 💬 Ask me about **Html/CSS**
 
