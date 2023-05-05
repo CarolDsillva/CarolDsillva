@@ -31,5 +31,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/caroldsilva"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="caroldsilva" /></a></p><br><br><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Carol-Dsillva&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Carol-Dsillva stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=CarolDsillva&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Carol-Dsillva stats" />
 
