@@ -4,17 +4,17 @@
 
 <p align="left"> <a href="https://twitter.com/caroldsillva" target="blank"><img src="https://img.shields.io/twitter/follow/caroldsillva?logo=twitter&style=for-the-badge" alt="caroldsillva" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Android Studio**
+- 🌱 I’m currently learning **C, Android Studio**
 
 - 👨‍💻 All of my projects are available at [https://caroldsilvaportfolio.web.app/](https://caroldsilvaportfolio.web.app/)
 
-- 💬 Ask me about **Html/CSS**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **dsilvacarolbiz@gmail.com**
 
 - 📄 Know about my experiences [Download resume](https://github.com/Carol-Dsillva/Carol-Dsillva/blob/main/ResumeCarolDsilva.pdf)
 
-- ⚡ Fun fact **I'm also an AR creator with over 560 Million Views.**
+- ⚡ Fun fact **I'm also an AR creator with over 1 Billion Views.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
