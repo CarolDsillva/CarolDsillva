@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dsilvacarolbiz@gmail.com**
 
-- 📄 Know about my experiences [Download resume](https://github.com/Carol-Dsillva/Carol-Dsillva/blob/main/ResumeCarolDsilva.pdf)
+- 📄 Know about my experiences [Download resume](https://github.com/Carol-Dsillva/Carol-Dsillva/blob/main/Carol Resume May 2024.pdf)
 
 - ⚡ Fun fact **I'm also an AR creator with over 1 Billion Views.**
 
