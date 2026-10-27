@@ -1,77 +1,118 @@
-![logo](https://github.com/Carol-Dsillva/Carol-Dsillva/blob/main/Banner.gif)
-
-<h1 align="center">Hi 👋, I'm Carol D'silva</h1>
-<h3 align="center">Associate Agentic AI Engineer | Building Production AI Automation for Enterprise Procurement</h3>
-
 <p align="center">
-  <a href="https://twitter.com/caroldsillva"><img src="https://img.shields.io/twitter/follow/caroldsillva?logo=twitter&style=for-the-badge" alt="caroldsillva" /></a>
+  <img src="Banner.gif" alt="Carol Dsilva, Agentic AI Engineer" width="100%"/>
 </p>
 
-- 🤖 Working full-time as an **Associate Agentic AI Engineer at Emplay Analytics**, building AI-powered procurement automation for enterprise clients
-- 🏗️ Currently building **LLM-powered contract redaction, supplier performance (NPS/SPM), supplier risk scoring, and SOW/PR assistant pipelines** in production
-- 🧠 Deep in **agentic workflow design (Zinger Agent Studio), Azure OpenAI prompt engineering, and PostgreSQL-backed analytics**
-- 🌱 Exploring **agentic AI architectures, LLM evaluation, and scalable automation systems**
-- 👨‍💻 All of my projects are available at [caroldsilvaportfolio.web.app](https://caroldsilvaportfolio.web.app/)
-- 🏆 Published **1000+ AR filters** with **14+ Billion cumulative views** across Meta & Snapchat
-- 💬 Ask me about **Agentic AI, LLM Prompt Engineering, Full-Stack Development, SQL/Data Pipelines**
-- 📫 How to reach me: **caroldsillva@yahoo.com**
-- 📄 Know about my experience: [Download resume](https://github.com/CarolDsillva/CarolDsillva/blob/main/Carol%20Resume%20May%202024.pdf)
-- ⚡ Fun fact: **Led 10+ technical workshops reaching 2,000+ students!**
-
----
-
-<h3 align="center">What I'm building</h3>
-
 <p align="center">
-  🔹 <b>Contract Redaction Pipeline</b> — automated sensitive-data detection & redaction for procurement contracts<br>
-  🔹 <b>Supplier Performance Management (SPM)</b> — multi-pillar NPS scoring (Delivery, Quality, Responsiveness, Compliance, Innovation) with real-time dashboards<br>
-  🔹 <b>Supplier Risk Scoring Engine</b> — nine-pillar risk model (sanctions, ESG, financial, security, compliance & more) with LLM-driven risk extraction<br>
-  🔹 <b>SOW/PR Assistant</b> — LLM-powered validation for statements of work and purchase requisitions across currencies and lead times
+  <a href="https://caroldsilvaportfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/caroldsillva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/caroldsillva"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:caroldsillva@yahoo.com"><img src="https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email"/></a>
+  <a href="Carol_Dsilva_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-22C55E?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé"/></a>
 </p>
 
----
+<br/>
 
-<h3 align="center">Connect with me</h3>
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### About
+
+I build **production LLM automation** at **Emplay Analytics**: agentic workflows that read enterprise procurement documents, score suppliers and validate requests before a human ever opens them.
+
+- Agentic workflow design, prompt engineering on Azure OpenAI
+- PostgreSQL pipelines and analytics behind the agents
+- Exploring agent architectures and LLM evaluation
+
+</td>
+<td width="45%" valign="top">
+
+### At a glance
+
+```yaml
+role:      Associate Agentic AI Engineer
+company:   Emplay Analytics
+based_in:  Bangalore, India
+ar_filters: 1,000+ published · 14B+ views
+workshops: 10+ led · 2,000+ students
+ask_me:    agents, prompting, SQL pipelines
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Email GTM Outreach Agent](https://github.com/CarolDsillva/Email_gtm_outreach_agent)
+Multi-agent app that finds target companies and the right contacts, then drafts personalised B2B outreach.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LLM](https://img.shields.io/badge/GPT_+_Exa-8B5CF6?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Ubuntu Emoji & Clipboard](https://github.com/CarolDsillva/ubuntu-emoji-clipboard)
+Windows-style <kbd>Win</kbd>+<kbd>.</kbd> emoji and clipboard-history picker for Ubuntu, with a one-line installer.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GTK](https://img.shields.io/badge/GTK3-4A86CF?style=flat-square&logo=gtk&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Indian Sign Language Detection](https://github.com/CarolDsillva/IndianSignDetection)
+Real-time translation of ISL hand gestures into words from a webcam feed. 43 stars on GitHub.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### [emuziek](https://github.com/CarolDsillva/emuziek)
+Reads your facial emotion with a CNN and recommends music to match it.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech stack
 
 <p align="center">
-<table align="center"><tr>
-<td align="center"><a href="https://twitter.com/caroldsillva"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a></td>
-<td align="center"><a href="https://linkedin.com/in/caroldsillva"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></td>
-<td align="center"><a href="https://fb.com/caroldsillva"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a></td>
-<td align="center"><a href="https://instagram.com/caroldsillva"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a></td>
-<td align="center"><a href="https://www.youtube.com/c/caroldsilva"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a></td>
-</tr></table>
+  <img src="https://skillicons.dev/icons?i=python,postgres,azure,pytorch,tensorflow,opencv,react,js,ts,nodejs,django,flask,flutter,git,blender&perline=8" alt="Tech stack"/>
+</p>
+<p align="center"><sub>Also: Jinja2 · Zinger Agent Studio · Streamlit · MySQL · prompt engineering</sub></p>
+
+<br/>
+
+## Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarolDsillva/CarolDsillva/output/snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/CarolDsillva/CarolDsillva/output/snake.svg" alt="Contribution snake"/>
+  </picture>
 </p>
 
----
-
-<h3 align="center">Languages and Tools</h3>
-
-<table align="center"><tr>
-<td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><br>Python</a></td>
-<td align="center"><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/><br>PostgreSQL</a></td>
-<td align="center"><a href="https://palletsprojects.com/p/jinja/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jinja/jinja-original.svg" alt="jinja" width="40" height="40"/><br>Jinja2</a></td>
-<td align="center"><a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/><br>Azure OpenAI</a></td>
-<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><br>JavaScript</a></td>
-<td align="center"><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/><br>TypeScript</a></td>
-<td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><br>React</a></td>
-</tr><tr>
-<td align="center"><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><br>Node.js</a></td>
-<td align="center"><a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/><br>Django</a></td>
-<td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><br>HTML5</a></td>
-<td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><br>CSS3</a></td>
-<td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><br>MySQL</a></td>
-<td align="center"><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/><br>Bootstrap</a></td>
-<td align="center"><a href="https://www.blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/><br>Blender</a></td>
-</tr></table>
-
----
-
-[![Holopin Badges](https://holopin.me/caroldsillva)](https://holopin.io/@caroldsillva)
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/caroldsilva"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="caroldsilva" /></a></p><br><br><br>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarolDsillva&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Carol-Dsillva stats" />
+  <a href="https://www.buymeacoffee.com/caroldsilva"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" height="42" alt="Buy me a coffee"/></a>
 </p>
