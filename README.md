@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.gif" alt="Carol Dsilva, Agentic AI Engineer" width="100%"/>
+  <img src="Banner-CarolDsillva.gif" alt="Carol Dsilva, Agentic AI Engineer" width="100%"/>
 </p>
 
 <p align="center">
