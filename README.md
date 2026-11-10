@@ -21,8 +21,9 @@
 I build **production LLM automation** at **Emplay Analytics**: agentic workflows that read enterprise procurement documents, score suppliers and validate requests before a human ever opens them.
 
 - Agentic workflow design, prompt engineering on Azure OpenAI
+- Multi-agent systems with LangGraph, human-in-the-loop by design
 - PostgreSQL pipelines and analytics behind the agents
-- Exploring agent architectures and LLM evaluation
+- 🥈 **2nd place, Vultr Agent Rush 2026** (Finance & Accounting track)
 
 </td>
 <td width="45%" valign="top">
@@ -35,6 +36,7 @@ company:   Emplay Analytics
 based_in:  Bangalore, India
 ar_filters: 1,000+ published · 14B+ views
 workshops: 10+ led · 2,000+ students
+hackathon: 2nd place · Vultr Agent Rush 2026
 ask_me:    agents, prompting, SQL pipelines
 ```
 
@@ -47,6 +49,22 @@ ask_me:    agents, prompting, SQL pipelines
 ## Featured projects
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🥈 [Follow the Money](https://github.com/CarolDsillva/follow-the-money): 2nd place at Vultr Agent Rush
+Seven AI agents that investigate a company's payment run **before it pays**: they link suppliers that share a bank account, argue the innocent side, and flag split purchases and prompt-injection emails. Code does all the maths and policy checks, a named human approves every action, and a case only closes when code-run checks pass. About $0.08 per investigation.
+
+[Demo video](https://youtu.be/DgoB9yDNvoI) · [Live app](https://followthemoney.137-220-32-178.sslip.io)
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -98,9 +116,9 @@ Reads your facial emotion with a CNN and recommends music to match it.
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,azure,pytorch,tensorflow,opencv,react,js,ts,nodejs,django,flask,flutter,git,blender&perline=8" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=python,postgres,fastapi,azure,pytorch,tensorflow,opencv,react,ts,js,nodejs,django,flask,flutter,git,blender&perline=8" alt="Tech stack"/>
 </p>
-<p align="center"><sub>Also: Jinja2 · Zinger Agent Studio · Streamlit · MySQL · prompt engineering</sub></p>
+<p align="center"><sub>Also: LangGraph · Jinja2 · Zinger Agent Studio · Streamlit · MySQL · Vultr · prompt engineering</sub></p>
 
 <br/>
 
